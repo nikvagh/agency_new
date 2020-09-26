@@ -1,0 +1,18 @@
+/*======================= input type file css start */
+.file-box {
+    border: 1px dotted gray;
+    position: relative;
+    padding: 10px;
+    font-weight: normal;
+    width: 100%;
+    text-align: center;
+    color: gray;
+    overflow: hidden;
+}
+
+.file-box input[type="file"] {
+    opacity: 0;
+    bottom: 0;
+    position: absolute;
+}
+/*========================= input type file css end */

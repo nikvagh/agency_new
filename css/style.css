@@ -1,0 +1,77 @@
+
+.container{
+    width:100%;
+    float:left;
+}
+
+
+
+.header {
+    width:100%;
+    float:left;
+    background: white;color:black;
+	
+} 
+.logo{
+    width:25%;
+    float:left;
+}
+.navbar{
+  
+    float:left;
+    display:inline-block;
+
+}
+
+ul.top-header {
+    width: 100%;
+    float: left;
+}
+.top-header li {
+    float: left;
+    list-style-type: none;
+    }
+    .top-header li a {
+    text-decoration: none;
+    display: block;
+    float: left;
+    padding: 15px;
+}
+img.banner {
+    width: 100%;
+    float: left;
+}
+.row1, .row2, .row3, .row4 {
+    width: 100%;
+    float: left;
+        text-align: center;
+}
+.row1 .gallery, .row3 .gallery, .row4 .gallery {
+    width: 33.33%;
+    float: left;
+} 
+.tag{
+        text-align: center;
+}
+.italic{
+    text-align: center;
+    font-size: 80px;
+    text-decoration: underline;
+    font-style: italic;
+}
+.design{
+    text-align:center;
+}
+.social-links li {
+    list-style-type: none;
+    padding-left: 25px;
+    margin-top:20;
+}
+.social-links ul {
+    display: -webkit-inline-box;
+}
+.footer{
+    background-color:gray;
+}
+
+

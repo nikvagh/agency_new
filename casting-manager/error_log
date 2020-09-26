@@ -1,0 +1,473 @@
+[29-May-2020 12:22:27 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:22:27 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 244
+[29-May-2020 12:22:27 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 271
+[29-May-2020 12:22:27 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 275
+[29-May-2020 12:22:27 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 531
+[29-May-2020 12:22:27 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 543
+[29-May-2020 12:22:27 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 731
+[29-May-2020 12:22:27 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 744
+[29-May-2020 12:22:27 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 745
+[29-May-2020 12:22:27 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 787
+[29-May-2020 12:22:27 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 843
+[29-May-2020 12:22:36 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:22:36 America/New_York] PHP Notice:  Undefined index: user_id in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 35
+[29-May-2020 12:23:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:23:02 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 244
+[29-May-2020 12:23:02 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 271
+[29-May-2020 12:23:02 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 275
+[29-May-2020 12:23:02 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 531
+[29-May-2020 12:23:02 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 543
+[29-May-2020 12:23:02 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 731
+[29-May-2020 12:23:02 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 744
+[29-May-2020 12:23:02 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 745
+[29-May-2020 12:23:02 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 787
+[29-May-2020 12:23:02 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 843
+[29-May-2020 12:24:29 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:24:29 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 244
+[29-May-2020 12:24:29 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 271
+[29-May-2020 12:24:29 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 275
+[29-May-2020 12:24:29 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 531
+[29-May-2020 12:24:29 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 543
+[29-May-2020 12:24:29 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 731
+[29-May-2020 12:24:29 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 744
+[29-May-2020 12:24:29 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 745
+[29-May-2020 12:24:29 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 787
+[29-May-2020 12:24:29 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 843
+[29-May-2020 12:33:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:33:53 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:33:53 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:33:53 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:33:53 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:33:53 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:33:53 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:33:53 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:33:53 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:33:53 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:33:53 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:35:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:35:18 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:35:18 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:35:18 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:35:18 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:35:18 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:35:18 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:35:18 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:35:18 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:35:18 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:35:18 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:39:25 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:39:25 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:39:25 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:39:25 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:39:25 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:39:25 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:39:25 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:39:25 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:39:25 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:39:25 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:39:25 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:39:33 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:39:33 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:39:33 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:39:33 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:39:33 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:39:33 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:39:33 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:39:33 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:39:33 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:39:33 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:39:33 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:40:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:40:19 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:40:19 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:40:19 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:40:19 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:40:19 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:40:19 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:40:19 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:40:19 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:40:19 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:40:19 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:41:17 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 1066
+[29-May-2020 12:41:20 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 1066
+[29-May-2020 12:42:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:42:24 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 244
+[29-May-2020 12:42:24 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 271
+[29-May-2020 12:42:24 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 275
+[29-May-2020 12:42:24 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 531
+[29-May-2020 12:42:24 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 543
+[29-May-2020 12:42:24 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 731
+[29-May-2020 12:42:24 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 744
+[29-May-2020 12:42:24 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 745
+[29-May-2020 12:42:24 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 787
+[29-May-2020 12:42:24 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 843
+[29-May-2020 12:43:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:43:18 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 244
+[29-May-2020 12:43:18 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 271
+[29-May-2020 12:43:18 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 275
+[29-May-2020 12:43:18 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 531
+[29-May-2020 12:43:18 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 543
+[29-May-2020 12:43:18 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 731
+[29-May-2020 12:43:18 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 744
+[29-May-2020 12:43:18 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 745
+[29-May-2020 12:43:18 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 787
+[29-May-2020 12:43:18 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 843
+[29-May-2020 12:43:21 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:43:21 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 244
+[29-May-2020 12:43:21 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 271
+[29-May-2020 12:43:21 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 275
+[29-May-2020 12:43:21 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 531
+[29-May-2020 12:43:21 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 543
+[29-May-2020 12:43:21 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 731
+[29-May-2020 12:43:21 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 744
+[29-May-2020 12:43:21 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 745
+[29-May-2020 12:43:21 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 787
+[29-May-2020 12:43:21 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 843
+[29-May-2020 12:43:39 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:43:39 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:43:39 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:43:39 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:43:39 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:43:39 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:43:39 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:43:39 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:43:39 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:43:39 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:43:39 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:46:20 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:46:20 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:46:20 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:46:20 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:46:20 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:46:20 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:46:20 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:46:20 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:46:20 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:46:20 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:46:20 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:47:01 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:47:01 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:47:01 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:47:01 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:47:01 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:47:01 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:47:01 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:47:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:47:12 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:47:12 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:47:12 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:47:12 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:47:12 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:47:12 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:47:12 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:47:12 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:47:12 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:47:12 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:48:23 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:48:23 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:48:23 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:48:23 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:48:23 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:48:23 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:48:23 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:48:23 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:48:23 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:48:23 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:48:23 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:49:55 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:49:55 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[29-May-2020 12:49:55 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[29-May-2020 12:49:55 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[29-May-2020 12:49:56 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 529
+[29-May-2020 12:49:56 America/New_York] PHP Notice:  Undefined variable: userid in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 541
+[29-May-2020 12:49:56 America/New_York] PHP Notice:  Undefined offset: 1 in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[29-May-2020 12:49:56 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[29-May-2020 12:49:56 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[29-May-2020 12:49:56 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 785
+[29-May-2020 12:49:56 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[29-May-2020 12:50:33 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:50:42 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:50:47 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:50:47 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 292
+[29-May-2020 12:50:47 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 292
+[29-May-2020 12:56:42 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:56:51 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:56:51 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 292
+[29-May-2020 12:56:51 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 292
+[29-May-2020 12:57:15 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:57:16 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 303
+[29-May-2020 12:57:16 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 303
+[29-May-2020 12:57:21 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:58:11 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 12:58:11 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 303
+[29-May-2020 12:58:11 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 303
+[29-May-2020 13:00:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 13:00:12 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 303
+[29-May-2020 13:00:12 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 303
+[29-May-2020 13:01:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 13:01:41 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 302
+[29-May-2020 13:01:41 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/submission.php on line 302
+[29-May-2020 13:01:50 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 13:02:14 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[29-May-2020 13:37:23 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[30-May-2020 01:02:36 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[30-May-2020 01:02:36 America/New_York] PHP Notice:  Undefined index: user_id in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 35
+[13-Jun-2020 05:44:52 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:45:03 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:45:46 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:46:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:46:18 America/New_York] PHP Notice:  Undefined variable: country in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1364
+[13-Jun-2020 05:46:18 America/New_York] PHP Notice:  Undefined variable: country in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1368
+[13-Jun-2020 05:46:18 America/New_York] PHP Notice:  Undefined variable: country in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1368
+[13-Jun-2020 05:46:18 America/New_York] PHP Notice:  Undefined variable: country in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1368
+[13-Jun-2020 05:46:18 America/New_York] PHP Notice:  Undefined index: agencysearch in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1386
+[13-Jun-2020 05:46:18 America/New_York] PHP Notice:  Undefined variable: endscript in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1390
+[13-Jun-2020 05:46:21 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:46:38 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:46:49 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:46:49 America/New_York] PHP Notice:  Undefined variable: country in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1364
+[13-Jun-2020 05:46:49 America/New_York] PHP Notice:  Undefined variable: country in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1368
+[13-Jun-2020 05:46:49 America/New_York] PHP Notice:  Undefined variable: country in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1368
+[13-Jun-2020 05:46:49 America/New_York] PHP Notice:  Undefined variable: country in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1368
+[13-Jun-2020 05:46:49 America/New_York] PHP Notice:  Undefined index: agencysearch in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1386
+[13-Jun-2020 05:46:49 America/New_York] PHP Notice:  Undefined variable: endscript in /home/tambwksf/public_html/theagency/casting-manager/clienthome.php on line 1390
+[13-Jun-2020 05:46:51 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:46:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:47:03 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 94
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 106
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 111
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 277
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 279
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 281
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 282
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 292
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 295
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 301
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 307
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 315
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 316
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 317
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 319
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 320
+[13-Jun-2020 05:47:03 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[13-Jun-2020 05:47:03 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[13-Jun-2020 05:47:49 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:47:49 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[13-Jun-2020 05:47:49 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[13-Jun-2020 05:47:49 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[13-Jun-2020 05:47:49 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[13-Jun-2020 05:47:49 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[13-Jun-2020 05:47:49 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[13-Jun-2020 05:47:49 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[13-Jun-2020 05:49:08 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:49:08 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[13-Jun-2020 05:49:08 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[13-Jun-2020 05:49:08 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[13-Jun-2020 05:49:08 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[13-Jun-2020 05:49:08 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[13-Jun-2020 05:49:08 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[13-Jun-2020 05:49:08 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[13-Jun-2020 05:49:11 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 94
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 106
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 111
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 277
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 279
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 281
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 282
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 292
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 295
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 301
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 307
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 315
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 316
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 317
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 319
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 320
+[13-Jun-2020 05:49:11 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: photos in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 178
+[13-Jun-2020 05:49:11 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 178
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined variable: photos in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 190
+[13-Jun-2020 05:49:11 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 190
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[13-Jun-2020 05:49:11 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[13-Jun-2020 05:49:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 94
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 106
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 111
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 277
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 279
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 281
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 282
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 292
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 295
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 301
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 307
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 315
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 316
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 317
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 319
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 320
+[13-Jun-2020 05:49:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: photos in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 178
+[13-Jun-2020 05:49:19 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 178
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined variable: photos in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 190
+[13-Jun-2020 05:49:19 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 190
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[13-Jun-2020 05:49:19 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[13-Jun-2020 05:49:20 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[13-Jun-2020 05:49:20 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[13-Jun-2020 05:49:20 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[13-Jun-2020 06:02:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 06:02:12 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[13-Jun-2020 06:02:12 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[13-Jun-2020 06:02:12 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[13-Jun-2020 06:02:12 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[13-Jun-2020 06:02:12 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[13-Jun-2020 06:02:12 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[13-Jun-2020 06:02:12 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[13-Jun-2020 06:02:24 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 06:59:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 06:59:19 America/New_York] PHP Notice:  Undefined index: user_id in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 35
+[13-Jun-2020 09:01:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 09:02:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 09:02:07 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 09:02:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 94
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 106
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 111
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 277
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 279
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 281
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 282
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 292
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 295
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 301
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 307
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 315
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 316
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 317
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 319
+[13-Jun-2020 09:02:12 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 320
+[13-Jun-2020 09:02:13 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 09:02:13 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[13-Jun-2020 09:02:13 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[13-Jun-2020 09:02:13 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[13-Jun-2020 09:02:13 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[13-Jun-2020 09:02:13 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[13-Jun-2020 09:02:13 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[13-Jun-2020 09:02:13 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[13-Jun-2020 09:03:15 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 09:03:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 94
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 106
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 111
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 277
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 279
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 281
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 282
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 292
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 295
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 301
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 307
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 315
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 316
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 317
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 319
+[13-Jun-2020 09:03:19 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 320
+[13-Jun-2020 09:03:20 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 09:03:20 America/New_York] PHP Notice:  Undefined variable: photos in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 178
+[13-Jun-2020 09:03:20 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 178
+[13-Jun-2020 09:03:20 America/New_York] PHP Notice:  Undefined variable: photos in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 190
+[13-Jun-2020 09:03:20 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 190
+[13-Jun-2020 09:03:20 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[13-Jun-2020 09:03:20 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[13-Jun-2020 09:03:20 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[13-Jun-2020 09:03:20 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[13-Jun-2020 09:03:20 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[13-Jun-2020 09:03:20 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[13-Jun-2020 09:03:22 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 94
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 98
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 102
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 106
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 111
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 277
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 279
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 281
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 282
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 288
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 292
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 295
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 301
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 307
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 315
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 316
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 317
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 319
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: page_selected in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 320
+[13-Jun-2020 09:03:22 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 242
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 269
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 273
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined index:  in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 729
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined index: hair in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 742
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined index: eyes in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 743
+[13-Jun-2020 09:03:22 America/New_York] PHP Notice:  Undefined variable: folder in /home/tambwksf/public_html/theagency/casting-manager/profile-view-talent.php on line 841
+[16-Jun-2020 07:28:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tambwksf/public_html/theagency/includes/mysql_connect.php on line 43
+[16-Jun-2020 07:28:53 America/New_York] PHP Notice:  Undefined index: user_id in /home/tambwksf/public_html/theagency/casting-manager/header.php on line 35

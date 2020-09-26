@@ -1,0 +1,1 @@
+<a class="a2a_dd" href="javascript:void(0)"><img src="images/share.gif" border="0" alt="Share/Save/Bookmark"/></a><script type="text/javascript">a2a_linkname=document.title;a2a_linkurl=location.href;</script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>

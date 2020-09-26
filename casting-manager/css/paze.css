@@ -1,0 +1,29 @@
+.body{
+	font-family:verdana,sans-serif;
+	font-size:0.9em;
+}
+div#header,div#footer{
+	padding:10px;
+	color:white;
+	background-color:black;
+}
+
+div#content{
+	margin:5px;
+	padding:10px;
+	background-color:lightgrey;
+}
+
+div.article{
+	margin:5px;
+	padding:10px;
+	background-color:white;
+	}
+
+	div#menu ul{
+	padding:0;
+	}
+	div#menu ul li{
+	display:inline;
+	margin:5px;
+	} 
